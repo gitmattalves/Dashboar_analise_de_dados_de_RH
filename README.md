@@ -39,7 +39,7 @@ Como funcionários por cargos, porcentagem dos funcionários que estavam dispon�
 
 Para finalizar, inseri a segmentção de dados para poderrmos realizar o filtro pela idade ou faixa de idade desejada.
 Após as as configuraçoes finais e formatções, concluímos o visual do nosso relatório de Análise de Dados de RH.
-Posteriormente, será explorado um pouco mais esses dados para a geração de mais métrica sobre os setor.
+
 ![](https://github.com/gitmattalves/Dashboard_analise_de_dados_de_RH/blob/main/Dash%20completo.png#vitrinedev)
 
-
+Posteriormente, será explorado um pouco mais esses dados para a geração de mais métrica sobre os setor.
