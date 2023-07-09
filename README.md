@@ -9,6 +9,8 @@ O projeto tem por objetivo apresentar algumas informações do setor de Recursos
 | :rocket: URL         | [https://corta.link/om5bR](https://encurtador.com.br/dhiGU)
 
 
+
+
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/gitmattalves/Dashboar_analise_de_dados_de_RH/blob/main/dadosRH.png#vitrinedev)
 
