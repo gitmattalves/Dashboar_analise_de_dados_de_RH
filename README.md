@@ -1,4 +1,4 @@
-# Dashboar_analise_de_dados_de_RH2
+# Dashboar_analise_de_dados_de_RH
 
 O projeto tem por objetivo apresentar algumas informações do setor de Recursos Humanos de uma empresa.
 
