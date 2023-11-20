@@ -6,7 +6,7 @@ O projeto foi desenvilvido durante as aulas do curso de Microsoft Power BI Para 
 | -------------  | --- |
 | :sparkles: Nome        | **Análise de Dados de RH**
 | :computer: Tecnologias | Power BI (tecnologias utilizadas)
-| :globe_with_meridians: URL         | https://shre.ink/915C
+| :globe_with_meridians: URL         | https://l1nq.com/lparC
 | :bar_chart: Demais Projetos     | https://l1nk.dev/portfolio-mateus-alves-dos-santos
 
 
