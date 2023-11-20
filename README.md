@@ -33,13 +33,13 @@ Estes visuais, tinham como objetivo obter o conhecimento geral dos funcionários
 Posteriormente, foi gerada a apresentação de dados mais complexos, com a junção entre vários dados para obtação das métricas desejadas.
 Como funcionários por cargos, porcentagem dos funcionários que estavam disponíveis para fazer hora extra e do envolvimento deles com o trabalho.
 
-![](https://github.com/gitmattalves/Dashboard_analise_de_dados_de_RH/blob/main/medidas%20complementares.png#vitrinedev)
+![](https://github.com/gitmattalves/Dashboard_analise_de_dados_de_RH/blob/main/metricas_complexas.png#vitrinedev)
 
 #### Dashboard Completo
 
 Para finalizar, inseri a segmentção de dados para podermos realizar o filtro pela idade ou faixa de idade desejada.
 Após as configurações finais e formatações, concluímos o visual do nosso relatório de Análise de Dados de RH.
 
-![](https://github.com/gitmattalves/Dashboard_analise_de_dados_de_RH/blob/main/Dash%20completo.png#vitrinedev)
+![](https://github.com/gitmattalves/Dashboard_analise_de_dados_de_RH/blob/main/painelcompleto.png#vitrinedev)
 
 Posteriormente, será explorado um pouco mais esses dados para a geração de mais métrica sobre os setor.
