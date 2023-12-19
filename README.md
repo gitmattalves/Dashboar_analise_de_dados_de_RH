@@ -20,13 +20,13 @@ O projeto tem por objetivo apresentar algumas informações de RH de uma empresa
 
 Primeiramente foi criada uma nova tabela de medidas para facilitar a criação do dashbord, e assim dar mais opções de cálculos para futuras análises. As nova medidas foram criadas utilizando as funções Dax.
 
-![](https://github.com/gitmattalves/Dashboard_analise_de_dados_de_RH/blob/main/tabela%20de%20medidas.png#vitrinedev)
+![](https://github.com/gitmattalves/Dashboard_analise_de_dados_de_RH/blob/main/tabela_de_medidas.png#vitrinedev)
 
 #### Primeiras Métricas
 
 Os primeiros dados apresentados, foram criados através dos cartões de visualização, esse modelo foi o escolhido por trazer infromações simples, com valores únicos em cada cartão. O objetivo é obter o conhecimento geral dos dados dos funcionários da empresa.
 
-![](https://github.com/gitmattalves/Dashboard_analise_de_dados_de_RH/blob/main/primeiras%20medidas.png#vitrinedev)
+![](https://github.com/gitmattalves/Dashboard_analise_de_dados_de_RH/blob/main/primeiras_medidas.png#vitrinedev)
 
 #### Métricas Complementares
 
